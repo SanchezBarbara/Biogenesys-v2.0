@@ -11,7 +11,8 @@
 
 ## 📂 Project Structure
 ```text
-├── Biogenesys_Saga/
+C:\Users\Bruger\Desktop\biogenesys_saga\    # Root Project Folder
+├── biogenesys_v2.0/
 │   ├── data_latinoamerica.csv   # Raw dataset (Input)
 │   ├── src/                     # Modular Core Logic
 │   │   ├── __init__.py 
