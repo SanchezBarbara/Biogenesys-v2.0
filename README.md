@@ -37,9 +37,9 @@ Install dependencies:
         pip install pandas numpy
 ```
 
-Execute the pipeline:
+Execute the pipeline in biogenesys_v2.0/:
 ```text Bash
-        python Biogenesys_Saga/run_pipeline.py
+        python run_pipeline.py
  ```
 
 **The script will process the raw data, run quality tests, and export the clean dataset.**
